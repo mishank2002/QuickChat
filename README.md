@@ -1,10 +1,6 @@
 # Quick-Chat - Chat Application 
-Quick-Chat is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+Quick-Chat is chat application build with the power of MERN Stack. 
 
-
-![login page](./images/Quick-Chat_login.png)
-
-![home page](./images/Quick-Chat.png)
 
 ## Installation Guide
 
